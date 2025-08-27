@@ -1,9 +1,0 @@
-lab\concert\app\TeamRepository.class
-lab\concert\app\domain\Player.class
-lab\concert\app\MatchRepository.class
-lab\concert\app\domain\Hero.class
-lab\concert\app\PlayerRepository.class
-lab\concert\app\HeroRepository.class
-lab\concert\app\domain\Team.class
-lab\concert\app\domain\Match.class
-lab\concert\app\dto\HeroDTO.class
