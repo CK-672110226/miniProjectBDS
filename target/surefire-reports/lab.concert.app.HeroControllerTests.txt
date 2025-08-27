@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lab.concert.app.HeroControllerTests
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.808 s - in lab.concert.app.HeroControllerTests
